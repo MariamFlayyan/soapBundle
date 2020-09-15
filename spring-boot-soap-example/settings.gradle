@@ -1,0 +1,6 @@
+pluginManagement {
+    plugins {
+        id 'biz.aQute.bnd' version '5.2.0'
+    }
+}
+rootProject.name = 'spring-boot-soap-example'
